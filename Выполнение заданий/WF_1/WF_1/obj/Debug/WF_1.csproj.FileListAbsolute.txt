@@ -1,0 +1,11 @@
+Y:\Садиков Инсаф\WF_1\WF_1\bin\Debug\WF_1.exe.config
+Y:\Садиков Инсаф\WF_1\WF_1\bin\Debug\WF_1.exe
+Y:\Садиков Инсаф\WF_1\WF_1\bin\Debug\WF_1.pdb
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.csproj.AssemblyReference.cache
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.MainForm.resources
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.Properties.Resources.resources
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.csproj.GenerateResource.cache
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.csproj.CoreCompileInputs.cache
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.exe
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.pdb
+Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.RootForm.resources
