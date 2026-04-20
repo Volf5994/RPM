@@ -1,0 +1,16 @@
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\bin\Debug\net10.0-windows\WF_2.exe
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\bin\Debug\net10.0-windows\WF_2.deps.json
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\bin\Debug\net10.0-windows\WF_2.runtimeconfig.json
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\bin\Debug\net10.0-windows\WF_2.dll
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\bin\Debug\net10.0-windows\WF_2.pdb
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.Form1.resources
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.csproj.GenerateResource.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.AssemblyInfoInputs.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.AssemblyInfo.cs
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.dll
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\refint\WF_2.dll
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.pdb
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\WF_2.genruntimeconfig.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2\WF_2\obj\Debug\net10.0-windows\ref\WF_2.dll
