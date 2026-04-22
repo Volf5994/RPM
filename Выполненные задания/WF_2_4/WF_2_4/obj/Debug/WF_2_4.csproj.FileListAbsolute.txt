@@ -1,0 +1,10 @@
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\bin\Debug\WF_2_4.exe.config
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\bin\Debug\WF_2_4.exe
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\bin\Debug\WF_2_4.pdb
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.csproj.AssemblyReference.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.MainForm.resources
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.Properties.Resources.resources
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.csproj.GenerateResource.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.exe
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_4\WF_2_4\obj\Debug\WF_2_4.pdb
