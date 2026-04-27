@@ -9,3 +9,14 @@ Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.csproj.CoreCompileInputs.c
 Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.exe
 Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.pdb
 Y:\Садиков Инсаф\WF_1\WF_1\obj\Debug\WF_1.RootForm.resources
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\bin\Debug\WF_1.exe.config
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\bin\Debug\WF_1.exe
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\bin\Debug\WF_1.pdb
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.csproj.AssemblyReference.cache
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.MainForm.resources
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.Properties.Resources.resources
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.RootForm.resources
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.csproj.GenerateResource.cache
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.csproj.CoreCompileInputs.cache
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.exe
+C:\Users\IS231-3\Desktop\Новая папка\RPM\Выполнение заданий\WF_1\WF_1\obj\Debug\WF_1.pdb

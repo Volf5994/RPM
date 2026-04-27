@@ -29,63 +29,51 @@ namespace WF_1
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            // Добавляем элементы в список математических операций
             comboBox1.Items.Add("+");
             comboBox1.Items.Add("-");
             
             comboBox1.Items.Add("*");
             comboBox1.Items.Add("/");
-            // Устанавливаем выбранный элемент с индексом 0
             comboBox1.SelectedIndex = 0;
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try {
-            // Определяем текст, введенный пользователем
-            // в поле "Число 1"
-            string sx1 = textBox1.Text;
-            // Преобразуем текст в число
-            int x1 = Convert.ToInt32(sx1);
-            // Определяем текст, введенный пользователем
-            // в поле "Число 2"
-            string sx2 = textBox2.Text;
-            // Преобразуем текст в число
-            int x2 = Convert.ToInt32(sx2);
-            // Определяем, какую математическую операцию выбрал пользователь
-            string mop = comboBox1.SelectedItem.ToString();
-            double result = 0;
-            if (mop == "+")
+            try
             {
-                result = x1 + x2;
+                string sx1 = textBox1.Text;
+                double x1 = Convert.ToDouble(sx1);
+                string sx2 = textBox2.Text;
+                double x2 = Convert.ToDouble(sx2);
+                string mop = comboBox1.SelectedItem.ToString();
+                double result = 0;
+                if (mop == "+")
+                {
+                    result = x1 + x2;
+                }
+                else if (mop == "-")
+                {
+                    result = x1 - x2;
+                }
+                else if (mop == "*")
+                {
+                    result = x1 * x2;
+                }
+                else if (mop == "/")
+                {
+                    if (x2 == 0 || x1 == 0)
+                    {
+                        textBox3.Text = "Деление на 0!";
+                        return;
+                    }
+                    result = x1 / x2;
+                }
             }
-            else if (mop == "-")
+            catch (FormatException)
             {
-                result = x1 - x2;
+                textBox3.Text = "Это НЕ число!";
             }
-            else if (mop == "*")
-            {
-                result = x1 * x2;
-            }
-            else
-            {
-                result = x1 / x2;
-            }
-
-            // Выводим результат в текстовое поле
-            textBox3.Text = " = " + result;
-        }
-        // Обрабатываем исключение возникающее при делении на ноль
-        catch (DivideByZeroException)
-        {
-            textBox3.Text = "Деление на 0!";
-        }
-        // Обрабатываем исключение при неккоректном вводе числа в консоль
-        catch (FormatException)
-        {
-            textBox3.Text = "Это НЕ число!";
-        }
             Console.ReadLine();
         }
 

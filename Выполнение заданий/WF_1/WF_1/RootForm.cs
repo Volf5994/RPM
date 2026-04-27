@@ -35,8 +35,21 @@ namespace WF_1
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            string mop = comboBox1.SelectedItem.ToString();
+            if (mop == "Корень")
+            {
+                label4.Visible = false;
+                textBox2.Visible = false;
+            }
+            else if (mop == "Степень")
+            {
+                label4.Visible = true;
+                textBox2.Visible = true;
+            }
+
 
         }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -63,6 +76,11 @@ namespace WF_1
             {
                 textBox1.Text = "Ошибка: введите числа!";
             }
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
     
