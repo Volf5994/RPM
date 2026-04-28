@@ -1,0 +1,17 @@
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\bin\Debug\net10.0-windows\WF_2_1_sr.exe
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\bin\Debug\net10.0-windows\WF_2_1_sr.deps.json
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\bin\Debug\net10.0-windows\WF_2_1_sr.runtimeconfig.json
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\bin\Debug\net10.0-windows\WF_2_1_sr.dll
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\bin\Debug\net10.0-windows\WF_2_1_sr.pdb
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.Form1.resources
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.csproj.GenerateResource.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.AssemblyInfoInputs.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.AssemblyInfo.cs
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.sourcelink.json
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.dll
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\refint\WF_2_1_sr.dll
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.pdb
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\WF_2_1_sr.genruntimeconfig.cache
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\WF_2_1_sr\WF_2_1_sr\obj\Debug\net10.0-windows\ref\WF_2_1_sr.dll
