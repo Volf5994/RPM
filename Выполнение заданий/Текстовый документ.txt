@@ -1,0 +1,40 @@
+Шаг 2. Настройка формы в дизайнере
+Перетащите на форму следующие элементы и задайте им свойства Name (остальные свойства можно настроить по вкусу):
+
+Параметры генерации (GroupBox)
+
+Элемент	Свойство Name	Тип
+GroupBox	groupBoxParams	GroupBox
+Label	labelSize	Label
+NumericUpDown	nudSize	NumericUpDown
+Label	labelMin	Label
+NumericUpDown	nudMin	NumericUpDown
+Label	labelMax	Label
+NumericUpDown	nudMax	NumericUpDown
+Button	btnGenerate	Button
+Исходный массив (GroupBox)
+
+Элемент	Свойство Name	Тип
+GroupBox	groupBoxOriginal	GroupBox
+ListBox	lstOriginal	ListBox
+Сортировка и результаты (GroupBox)
+
+Элемент	Свойство Name	Тип
+GroupBox	groupBoxSorted	GroupBox
+ListBox	lstSorted	ListBox
+Button	btnSort	Button
+Статистика (GroupBox)
+
+Элемент	Свойство Name	Тип
+GroupBox	groupBoxStats	GroupBox
+Label	labelNeg	Label
+Label	lblNegCount	Label
+Label	labelPos	Label
+Label	lblPosCount	Label
+Label	labelMin	Label
+Label	lblMinValue	Label
+Label	labelMaxVal	Label
+Label	lblMaxValue	Label
+Label	labelSum	Label
+Label	lblSumPositive	Label
+Button	btnCalculate	Button

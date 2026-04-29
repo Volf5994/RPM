@@ -1,0 +1,347 @@
+namespace ArrayOperationsApp
+{
+    partial class Form1
+    {
+        private System.ComponentModel.IContainer components = null;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            this.groupBoxParams = new System.Windows.Forms.GroupBox();
+            this.nudSize = new System.Windows.Forms.NumericUpDown();
+            this.nudMin = new System.Windows.Forms.NumericUpDown();
+            this.nudMax = new System.Windows.Forms.NumericUpDown();
+            this.labelSize = new System.Windows.Forms.Label();
+            this.labelMin = new System.Windows.Forms.Label();
+            this.labelMax = new System.Windows.Forms.Label();
+            this.btnGenerate = new System.Windows.Forms.Button();
+            this.groupBoxOriginal = new System.Windows.Forms.GroupBox();
+            this.lstOriginal = new System.Windows.Forms.ListBox();
+            this.groupBoxSorted = new System.Windows.Forms.GroupBox();
+            this.lstSorted = new System.Windows.Forms.ListBox();
+            this.btnSort = new System.Windows.Forms.Button();
+            this.groupBoxStats = new System.Windows.Forms.GroupBox();
+            this.labelNeg = new System.Windows.Forms.Label();
+            this.lblNegCount = new System.Windows.Forms.Label();
+            this.labelPos = new System.Windows.Forms.Label();
+            this.lblPosCount = new System.Windows.Forms.Label();
+            this.labelMinVal = new System.Windows.Forms.Label();
+            this.lblMinValue = new System.Windows.Forms.Label();
+            this.labelMaxVal = new System.Windows.Forms.Label();
+            this.lblMaxValue = new System.Windows.Forms.Label();
+            this.labelSum = new System.Windows.Forms.Label();
+            this.lblSumPositive = new System.Windows.Forms.Label();
+            this.btnCalculate = new System.Windows.Forms.Button();
+            this.groupBoxParams.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudSize)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudMin)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudMax)).BeginInit();
+            this.groupBoxOriginal.SuspendLayout();
+            this.groupBoxSorted.SuspendLayout();
+            this.groupBoxStats.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // groupBoxParams
+            // 
+            this.groupBoxParams.Controls.Add(this.nudSize);
+            this.groupBoxParams.Controls.Add(this.nudMin);
+            this.groupBoxParams.Controls.Add(this.nudMax);
+            this.groupBoxParams.Controls.Add(this.labelSize);
+            this.groupBoxParams.Controls.Add(this.labelMin);
+            this.groupBoxParams.Controls.Add(this.labelMax);
+            this.groupBoxParams.Controls.Add(this.btnGenerate);
+            this.groupBoxParams.Location = new System.Drawing.Point(12, 12);
+            this.groupBoxParams.Name = "groupBoxParams";
+            this.groupBoxParams.Size = new System.Drawing.Size(280, 140);
+            this.groupBoxParams.TabIndex = 0;
+            this.groupBoxParams.TabStop = false;
+            this.groupBoxParams.Text = "Параметры генерации";
+            // 
+            // nudSize
+            // 
+            this.nudSize.Location = new System.Drawing.Point(100, 25);
+            this.nudSize.Name = "nudSize";
+            this.nudSize.Size = new System.Drawing.Size(70, 20);
+            this.nudSize.TabIndex = 0;
+            // 
+            // nudMin
+            // 
+            this.nudMin.Location = new System.Drawing.Point(100, 51);
+            this.nudMin.Name = "nudMin";
+            this.nudMin.Size = new System.Drawing.Size(70, 20);
+            this.nudMin.TabIndex = 1;
+            // 
+            // nudMax
+            // 
+            this.nudMax.Location = new System.Drawing.Point(100, 77);
+            this.nudMax.Name = "nudMax";
+            this.nudMax.Size = new System.Drawing.Size(70, 20);
+            this.nudMax.TabIndex = 2;
+            // 
+            // labelSize
+            // 
+            this.labelSize.AutoSize = true;
+            this.labelSize.Location = new System.Drawing.Point(20, 27);
+            this.labelSize.Name = "labelSize";
+            this.labelSize.Size = new System.Drawing.Size(74, 13);
+            this.labelSize.TabIndex = 3;
+            this.labelSize.Text = "Размерность:";
+            // 
+            // labelMin
+            // 
+            this.labelMin.AutoSize = true;
+            this.labelMin.Location = new System.Drawing.Point(20, 53);
+            this.labelMin.Name = "labelMin";
+            this.labelMin.Size = new System.Drawing.Size(54, 13);
+            this.labelMin.TabIndex = 4;
+            this.labelMin.Text = "Минимум:";
+            // 
+            // labelMax
+            // 
+            this.labelMax.AutoSize = true;
+            this.labelMax.Location = new System.Drawing.Point(20, 79);
+            this.labelMax.Name = "labelMax";
+            this.labelMax.Size = new System.Drawing.Size(64, 13);
+            this.labelMax.TabIndex = 5;
+            this.labelMax.Text = "Максимум:";
+            // 
+            // btnGenerate
+            // 
+            this.btnGenerate.Location = new System.Drawing.Point(23, 105);
+            this.btnGenerate.Name = "btnGenerate";
+            this.btnGenerate.Size = new System.Drawing.Size(147, 28);
+            this.btnGenerate.TabIndex = 3;
+            this.btnGenerate.Text = "Сгенерировать массив";
+            this.btnGenerate.UseVisualStyleBackColor = true;
+            // 
+            // groupBoxOriginal
+            // 
+            this.groupBoxOriginal.Controls.Add(this.lstOriginal);
+            this.groupBoxOriginal.Location = new System.Drawing.Point(12, 158);
+            this.groupBoxOriginal.Name = "groupBoxOriginal";
+            this.groupBoxOriginal.Size = new System.Drawing.Size(280, 140);
+            this.groupBoxOriginal.TabIndex = 1;
+            this.groupBoxOriginal.TabStop = false;
+            this.groupBoxOriginal.Text = "Исходный массив";
+            // 
+            // lstOriginal
+            // 
+            this.lstOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lstOriginal.FormattingEnabled = true;
+            this.lstOriginal.Location = new System.Drawing.Point(3, 16);
+            this.lstOriginal.Name = "lstOriginal";
+            this.lstOriginal.Size = new System.Drawing.Size(274, 121);
+            this.lstOriginal.TabIndex = 0;
+            // 
+            // groupBoxSorted
+            // 
+            this.groupBoxSorted.Controls.Add(this.lstSorted);
+            this.groupBoxSorted.Location = new System.Drawing.Point(12, 340);
+            this.groupBoxSorted.Name = "groupBoxSorted";
+            this.groupBoxSorted.Size = new System.Drawing.Size(280, 140);
+            this.groupBoxSorted.TabIndex = 2;
+            this.groupBoxSorted.TabStop = false;
+            this.groupBoxSorted.Text = "Отсортированный массив";
+            // 
+            // lstSorted
+            // 
+            this.lstSorted.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lstSorted.FormattingEnabled = true;
+            this.lstSorted.Location = new System.Drawing.Point(3, 16);
+            this.lstSorted.Name = "lstSorted";
+            this.lstSorted.Size = new System.Drawing.Size(274, 121);
+            this.lstSorted.TabIndex = 0;
+            // 
+            // btnSort
+            // 
+            this.btnSort.Location = new System.Drawing.Point(12, 306);
+            this.btnSort.Name = "btnSort";
+            this.btnSort.Size = new System.Drawing.Size(280, 28);
+            this.btnSort.TabIndex = 4;
+            this.btnSort.Text = "Сортировать пузырьком";
+            this.btnSort.UseVisualStyleBackColor = true;
+            // 
+            // groupBoxStats
+            // 
+            this.groupBoxStats.Controls.Add(this.labelNeg);
+            this.groupBoxStats.Controls.Add(this.lblNegCount);
+            this.groupBoxStats.Controls.Add(this.labelPos);
+            this.groupBoxStats.Controls.Add(this.lblPosCount);
+            this.groupBoxStats.Controls.Add(this.labelMinVal);
+            this.groupBoxStats.Controls.Add(this.lblMinValue);
+            this.groupBoxStats.Controls.Add(this.labelMaxVal);
+            this.groupBoxStats.Controls.Add(this.lblMaxValue);
+            this.groupBoxStats.Controls.Add(this.labelSum);
+            this.groupBoxStats.Controls.Add(this.lblSumPositive);
+            this.groupBoxStats.Controls.Add(this.btnCalculate);
+            this.groupBoxStats.Location = new System.Drawing.Point(310, 12);
+            this.groupBoxStats.Name = "groupBoxStats";
+            this.groupBoxStats.Size = new System.Drawing.Size(250, 468);
+            this.groupBoxStats.TabIndex = 3;
+            this.groupBoxStats.TabStop = false;
+            this.groupBoxStats.Text = "Статистика";
+            // 
+            // labelNeg
+            // 
+            this.labelNeg.AutoSize = true;
+            this.labelNeg.Location = new System.Drawing.Point(15, 30);
+            this.labelNeg.Name = "labelNeg";
+            this.labelNeg.Size = new System.Drawing.Size(133, 13);
+            this.labelNeg.TabIndex = 0;
+            this.labelNeg.Text = "Отрицательных элементов:";
+            // 
+            // lblNegCount
+            // 
+            this.lblNegCount.AutoSize = true;
+            this.lblNegCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
+            this.lblNegCount.Location = new System.Drawing.Point(170, 30);
+            this.lblNegCount.Name = "lblNegCount";
+            this.lblNegCount.Size = new System.Drawing.Size(12, 13);
+            this.lblNegCount.TabIndex = 1;
+            this.lblNegCount.Text = "-";
+            // 
+            // labelPos
+            // 
+            this.labelPos.AutoSize = true;
+            this.labelPos.Location = new System.Drawing.Point(15, 55);
+            this.labelPos.Name = "labelPos";
+            this.labelPos.Size = new System.Drawing.Size(129, 13);
+            this.labelPos.TabIndex = 2;
+            this.labelPos.Text = "Положительных элементов:";
+            // 
+            // lblPosCount
+            // 
+            this.lblPosCount.AutoSize = true;
+            this.lblPosCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
+            this.lblPosCount.Location = new System.Drawing.Point(170, 55);
+            this.lblPosCount.Name = "lblPosCount";
+            this.lblPosCount.Size = new System.Drawing.Size(12, 13);
+            this.lblPosCount.TabIndex = 3;
+            this.lblPosCount.Text = "-";
+            // 
+            // labelMinVal
+            // 
+            this.labelMinVal.AutoSize = true;
+            this.labelMinVal.Location = new System.Drawing.Point(15, 80);
+            this.labelMinVal.Name = "labelMinVal";
+            this.labelMinVal.Size = new System.Drawing.Size(105, 13);
+            this.labelMinVal.TabIndex = 4;
+            this.labelMinVal.Text = "Минимальный элемент:";
+            // 
+            // lblMinValue
+            // 
+            this.lblMinValue.AutoSize = true;
+            this.lblMinValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
+            this.lblMinValue.Location = new System.Drawing.Point(170, 80);
+            this.lblMinValue.Name = "lblMinValue";
+            this.lblMinValue.Size = new System.Drawing.Size(12, 13);
+            this.lblMinValue.TabIndex = 5;
+            this.lblMinValue.Text = "-";
+            // 
+            // labelMaxVal
+            // 
+            this.labelMaxVal.AutoSize = true;
+            this.labelMaxVal.Location = new System.Drawing.Point(15, 105);
+            this.labelMaxVal.Name = "labelMaxVal";
+            this.labelMaxVal.Size = new System.Drawing.Size(119, 13);
+            this.labelMaxVal.TabIndex = 6;
+            this.labelMaxVal.Text = "Максимальный элемент:";
+            // 
+            // lblMaxValue
+            // 
+            this.lblMaxValue.AutoSize = true;
+            this.lblMaxValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
+            this.lblMaxValue.Location = new System.Drawing.Point(170, 105);
+            this.lblMaxValue.Name = "lblMaxValue";
+            this.lblMaxValue.Size = new System.Drawing.Size(12, 13);
+            this.lblMaxValue.TabIndex = 7;
+            this.lblMaxValue.Text = "-";
+            // 
+            // labelSum
+            // 
+            this.labelSum.AutoSize = true;
+            this.labelSum.Location = new System.Drawing.Point(15, 130);
+            this.labelSum.Name = "labelSum";
+            this.labelSum.Size = new System.Drawing.Size(140, 13);
+            this.labelSum.TabIndex = 8;
+            this.labelSum.Text = "Сумма положительных элементов:";
+            // 
+            // lblSumPositive
+            // 
+            this.lblSumPositive.AutoSize = true;
+            this.lblSumPositive.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
+            this.lblSumPositive.Location = new System.Drawing.Point(170, 130);
+            this.lblSumPositive.Name = "lblSumPositive";
+            this.lblSumPositive.Size = new System.Drawing.Size(12, 13);
+            this.lblSumPositive.TabIndex = 9;
+            this.lblSumPositive.Text = "-";
+            // 
+            // btnCalculate
+            // 
+            this.btnCalculate.Location = new System.Drawing.Point(18, 160);
+            this.btnCalculate.Name = "btnCalculate";
+            this.btnCalculate.Size = new System.Drawing.Size(210, 28);
+            this.btnCalculate.TabIndex = 10;
+            this.btnCalculate.Text = "Вычислить статистику";
+            this.btnCalculate.UseVisualStyleBackColor = true;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(575, 492);
+            this.Controls.Add(this.groupBoxParams);
+            this.Controls.Add(this.groupBoxOriginal);
+            this.Controls.Add(this.btnSort);
+            this.Controls.Add(this.groupBoxSorted);
+            this.Controls.Add(this.groupBoxStats);
+            this.Name = "Form1";
+            this.Text = "Работа с массивами";
+            this.groupBoxParams.ResumeLayout(false);
+            this.groupBoxParams.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudSize)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudMin)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudMax)).EndInit();
+            this.groupBoxOriginal.ResumeLayout(false);
+            this.groupBoxSorted.ResumeLayout(false);
+            this.groupBoxStats.ResumeLayout(false);
+            this.groupBoxStats.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        private System.Windows.Forms.GroupBox groupBoxParams;
+        private System.Windows.Forms.NumericUpDown nudSize;
+        private System.Windows.Forms.NumericUpDown nudMin;
+        private System.Windows.Forms.NumericUpDown nudMax;
+        private System.Windows.Forms.Label labelSize;
+        private System.Windows.Forms.Label labelMin;
+        private System.Windows.Forms.Label labelMax;
+        private System.Windows.Forms.Button btnGenerate;
+        private System.Windows.Forms.GroupBox groupBoxOriginal;
+        private System.Windows.Forms.ListBox lstOriginal;
+        private System.Windows.Forms.GroupBox groupBoxSorted;
+        private System.Windows.Forms.ListBox lstSorted;
+        private System.Windows.Forms.Button btnSort;
+        private System.Windows.Forms.GroupBox groupBoxStats;
+        private System.Windows.Forms.Label labelNeg;
+        private System.Windows.Forms.Label lblNegCount;
+        private System.Windows.Forms.Label labelPos;
+        private System.Windows.Forms.Label lblPosCount;
+        private System.Windows.Forms.Label labelMinVal;
+        private System.Windows.Forms.Label lblMinValue;
+        private System.Windows.Forms.Label labelMaxVal;
+        private System.Windows.Forms.Label lblMaxValue;
+        private System.Windows.Forms.Label labelSum;
+        private System.Windows.Forms.Label lblSumPositive;
+        private System.Windows.Forms.Button btnCalculate;
+    }
+}
