@@ -16,7 +16,7 @@ namespace WF_2_4
 		{
 			InitializeComponent();
 		}
-
+				
 		private void button_Grafik_Click(object sender, EventArgs e)
 		{
 			// Получаем значения, введенные пользователем в текстовые поля

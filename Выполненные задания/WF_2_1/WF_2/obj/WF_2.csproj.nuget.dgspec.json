@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2\\WF_2\\WF_2.csproj": {}
+    "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2_1\\WF_2\\WF_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2\\WF_2\\WF_2.csproj": {
+    "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2_1\\WF_2\\WF_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2\\WF_2\\WF_2.csproj",
+        "projectUniqueName": "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2_1\\WF_2\\WF_2.csproj",
         "projectName": "WF_2",
-        "projectPath": "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2\\WF_2\\WF_2.csproj",
+        "projectPath": "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2_1\\WF_2\\WF_2.csproj",
         "packagesPath": "C:\\Users\\Wolf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2\\WF_2\\obj\\",
+        "outputPath": "C:\\Users\\Wolf\\OneDrive\\Рабочий стол\\RPM\\RPM\\Выполненные задания\\WF_2_1\\WF_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

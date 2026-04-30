@@ -1,0 +1,7 @@
+﻿  task1.1.cpp
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\task1.1\task1.1\task1.1.cpp(9,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\task1.1\task1.1\task1.1.cpp(53,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\task1.1\task1.1\task1.1.cpp(79,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\task1.1\task1.1\task1.1.cpp(102,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\task1.1\task1.1\task1.1.cpp(119,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  task1.1.vcxproj -> C:\Users\Wolf\OneDrive\Рабочий стол\RPM\RPM\Выполненные задания\task1.1\x64\Debug\task1.1.exe
